@@ -1,0 +1,7 @@
+User-agent: * 
+Dissalow: /images/
+Allow: /images/img10.jpg
+Dissalow: /css/
+Dissalow: /js/
+Dissalow: /scss/
+Dissalow: /fonts/
